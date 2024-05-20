@@ -3,7 +3,7 @@ import ExampleComponent from "@/components/section/featureSection";
 import FeaturesSection from "@/components/section/featureSection";
 import Hero from "@/components/section/hero";
 import Pricing from "@/components/section/pricing";
- 
+  
 
  
 export default function Home() { 
