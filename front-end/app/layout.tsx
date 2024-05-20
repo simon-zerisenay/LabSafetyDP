@@ -9,7 +9,7 @@ import clsx from "clsx";
 import Footer from "@/components/section/footer";
 import { FormProvider } from "@/context/context";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = { 
 	title: {
 		default: 'SafetyLabAi',
 		template: `%s - ${siteConfig.name}`,
