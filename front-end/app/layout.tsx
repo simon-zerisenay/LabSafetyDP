@@ -7,7 +7,7 @@ import { Navbar } from "@/components/navbar";
 import { Link } from "@nextui-org/link";
 import clsx from "clsx";
 import Footer from "@/components/section/footer";
-import { FormProvider } from "@/context/context";
+import { FormProvider } from "@/context/context"; 
 
 export const metadata: Metadata = { 
 	title: {
